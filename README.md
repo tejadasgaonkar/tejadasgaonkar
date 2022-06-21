@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tejashree Dasgaonkar
-- 📫 Reach to me at tejadasgaonkar@gmail.com, 8928877689
+- 📫 Reach to me at tejadasgaonkar@gmail.com
 
 <!---
 tejadasgaonkar/tejadasgaonkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
